@@ -1,0 +1,416 @@
+{
+  "exact": [
+    {
+      "key": "DEEPEST\nSWORD",
+      "value": "ГЛУБОЧАЙШИЙ\nМЕЧ"
+    },
+    {
+      "key": "by Cosmic Adventure Squad",
+      "value": "от Cosmic Adventure Squad"
+    },
+    {
+      "key": "press any key",
+      "value": "нажми любую клавишу"
+    },
+    {
+      "key": "Length: {0}",
+      "value": "Длина: {0}"
+    },
+    {
+      "key": "Playtime: {0}",
+      "value": "Время: {0}"
+    },
+    {
+      "key": "HP: {0}/{1}",
+      "value": "ОЗ: {0}/{1}"
+    },
+    {
+      "key": "MP: {0}/{1}",
+      "value": "ОМ: {0}/{1}"
+    },
+    {
+      "key": "Potions: {0}/{1}",
+      "value": "Зелья: {0}/{1}"
+    },
+    {
+      "key": "SOLD OUT",
+      "value": "ПРОДАНО"
+    },
+    {
+      "key": "PAUSE MENU",
+      "value": "МЕНЮ ПАУЗЫ"
+    },
+    {
+      "key": "Controls",
+      "value": "Управление"
+    },
+    {
+      "key": "Camera & Audio",
+      "value": "Камера и звук"
+    },
+    {
+      "key": "Speedrun",
+      "value": "Спидран"
+    },
+    {
+      "key": "Credits",
+      "value": "Авторы"
+    },
+    {
+      "key": "Quit Game",
+      "value": "Выйти из игры"
+    },
+    {
+      "key": " Back",
+      "value": " Назад"
+    },
+    {
+      "key": "CONTROLS",
+      "value": "УПРАВЛЕНИЕ"
+    },
+    {
+      "key": "MOVE",
+      "value": "ДВИЖЕНИЕ"
+    },
+    {
+      "key": "SWORD",
+      "value": "МЕЧ"
+    },
+    {
+      "key": "RESPAWN",
+      "value": "ВОЗВРАТ"
+    },
+    {
+      "key": "FULL RESET",
+      "value": "СБРОС ИГРЫ"
+    },
+    {
+      "key": "Restore Defaults",
+      "value": "По умолчанию"
+    },
+    {
+      "key": "CAMERA & AUDIO",
+      "value": "КАМЕРА И ЗВУК"
+    },
+    {
+      "key": "SFX\n",
+      "value": "ЗВУКИ\n"
+    },
+    {
+      "key": "SFX",
+      "value": "ЗВУКИ"
+    },
+    {
+      "key": "MUSIC",
+      "value": "МУЗЫКА"
+    },
+    {
+      "key": "DYNAMIC CAMERA",
+      "value": "ДИНАМИЧЕСКАЯ КАМЕРА"
+    },
+    {
+      "key": "CAMERA SHAKE",
+      "value": "ТРЯСКА КАМЕРЫ"
+    },
+    {
+      "key": "SPEEDRUN",
+      "value": "СПИДРАН"
+    },
+    {
+      "key": "SHOW MILLISECONDS",
+      "value": "ПОКАЗ МИЛЛИСЕКУНД"
+    },
+    {
+      "key": "SHOW BEST TIME",
+      "value": "ПОКАЗ РЕКОРДА"
+    },
+    {
+      "key": "SHOW LAPS",
+      "value": "СЧЁТЧИК КРУГОВ"
+    },
+    {
+      "key": "STARTING STAGE",
+      "value": "НАЧАЛЬНЫЙ ЭТАП"
+    },
+    {
+      "key": "Leaderboards on Speedrun.com",
+      "value": "Рекорды на Speedrun.com"
+    },
+    {
+      "key": "CREDITS",
+      "value": "АВТОРЫ"
+    },
+    {
+      "key": "A game by",
+      "value": "Игра студии"
+    },
+    {
+      "key": "         Programming by Vu Ha",
+      "value": "         Программист: Vu Ha"
+    },
+    {
+      "key": "         Art by Rose Peng",
+      "value": "         Художник: Rose Peng"
+    },
+    {
+      "key": "         Music by Johan Soriao",
+      "value": "         Музыка: Johan Soriao"
+    },
+    {
+      "key": "Website",
+      "value": "Сайт"
+    },
+    {
+      "key": "buy us coffee!",
+      "value": "угостить кофе!"
+    },
+    {
+      "key": "CONGRATULATIONS",
+      "value": "ПОЗДРАВЛЯЕМ"
+    },
+    {
+      "key": "Thanks for playing!",
+      "value": "Спасибо за игру!"
+    },
+    {
+      "key": "Completion Time",
+      "value": "Время прохождения"
+    },
+    {
+      "key": "New Best Time!",
+      "value": "Новый рекорд!"
+    },
+    {
+      "key": "Best: {0}",
+      "value": "Рекорд: {0}"
+    },
+    {
+      "key": "No record",
+      "value": "нет"
+    },
+    {
+      "key": "click to restart",
+      "value": "щёлкни мышью, чтобы начать заново"
+    },
+    {
+      "key": "Use A and D to move",
+      "value": "Передвигайся\nклавишами A и D"
+    },
+    {
+      "key": "Use mouse buttons \nor left and right arrows\nto rotate your sword",
+      "value": "Вращай меч кнопками мыши\nили стрелками влево и вправо"
+    },
+    {
+      "key": "Press R to \nreturn to checkpoints",
+      "value": "Нажми R, чтобы вернуться\nна контрольную точку"
+    },
+    {
+      "key": "A slow fall slips less...",
+      "value": "Падая плавно,\nменьше скользишь..."
+    },
+    {
+      "key": "Understanding the pivot is key...",
+      "value": "Всё дело\nв точке опоры..."
+    },
+    {
+      "key": "Reach for it...",
+      "value": "Ну же, дотянись..."
+    },
+    {
+      "key": "Stab its heart!\nv",
+      "value": "Пронзи сердце!\nv"
+    },
+    {
+      "key": "This is a test dialog text\nSecond Line",
+      "value": "Тестовый текст диалога\nВторая строка"
+    },
+    {
+      "key": "Who dares challenge me!?<br>Take your best stab!",
+      "value": "Кто посмел бросить мне вызов?!<br>Ну же, коли что есть сил!"
+    },
+    {
+      "key": "Here to try again?",
+      "value": "Пришёл попробовать снова?"
+    },
+    {
+      "key": "Lets see what you got.",
+      "value": "Посмотрим, что там у тебя."
+    },
+    {
+      "key": "What a long sword you have...",
+      "value": "Какой у тебя длинный меч..."
+    },
+    {
+      "key": "Uhh, wait a minute!",
+      "value": "Э-э, погоди-ка!"
+    },
+    {
+      "key": "Is it even in?",
+      "value": "Он вообще вошёл?"
+    },
+    {
+      "key": "He he, that tickles.",
+      "value": "Хе-хе, щекотно."
+    },
+    {
+      "key": "Ah, felt something that time...",
+      "value": "Ах, вот теперь чувствуется..."
+    },
+    {
+      "key": "Oh, so deep...",
+      "value": "Ох, как глубоко..."
+    },
+    {
+      "key": "AAHHH!!!",
+      "value": "А-А-А!!!"
+    },
+    {
+      "key": "I've brought you back.<br>I've made your blade longer.",
+      "value": "Я вернул тебя к жизни<br>и удлинил твой клинок."
+    },
+    {
+      "key": "I've lengthened your blade a bit more.",
+      "value": "Я ещё немного<br>удлинил твой клинок."
+    },
+    {
+      "key": "It's almost at the limits.<br>You'll notice its weight.",
+      "value": "Клинок почти на пределе.<br>Ты ощутишь его тяжесть."
+    },
+    {
+      "key": "You hold the longest sword in the land!",
+      "value": "В твоих руках самый длинный<br>меч во всём краю!"
+    },
+    {
+      "key": "Venture deep into<br>the Cavern of Longing.",
+      "value": "Спускайся в глубины<br>Пещеры Томления."
+    },
+    {
+      "key": "Drive it deeper in this time.",
+      "value": "В этот раз вонзи его глубже."
+    },
+    {
+      "key": "Be careful of its weight.",
+      "value": "Осторожнее с его весом."
+    },
+    {
+      "key": "Such length may be troublesome.",
+      "value": "С такой длиной<br>будет непросто."
+    },
+    {
+      "key": "It is the Deepest Sword!",
+      "value": "Это Глубочайший Меч!"
+    },
+    {
+      "key": "Long the Dragon<br>lies ahead...",
+      "value": "Впереди ждёт<br>дракон Лонг..."
+    },
+    {
+      "key": "The cavern looks deeper<br>than before.",
+      "value": "Пещера кажется глубже,<br>чем прежде."
+    },
+    {
+      "key": "It's getting deeper and deeper.",
+      "value": "Всё глубже и глубже..."
+    },
+    {
+      "key": "It's even deeper now.<br>Don't give up.",
+      "value": "Теперь ещё глубже.<br>Не сдавайся."
+    },
+    {
+      "key": "So deep...",
+      "value": "Так глубоко..."
+    }
+  ],
+  "keyNames": [
+    {
+      "key": "Left",
+      "value": "Влево"
+    },
+    {
+      "key": "Right",
+      "value": "Вправо"
+    },
+    {
+      "key": "Up",
+      "value": "Вверх"
+    },
+    {
+      "key": "Down",
+      "value": "Вниз"
+    },
+    {
+      "key": "Space",
+      "value": "Пробел"
+    },
+    {
+      "key": "Return",
+      "value": "Enter"
+    },
+    {
+      "key": "KeypadEnter",
+      "value": "NumEnter"
+    },
+    {
+      "key": "Escape",
+      "value": "Esc"
+    },
+    {
+      "key": "LeftShift",
+      "value": "Л.Shift"
+    },
+    {
+      "key": "RightShift",
+      "value": "П.Shift"
+    },
+    {
+      "key": "LeftControl",
+      "value": "Л.Ctrl"
+    },
+    {
+      "key": "RightControl",
+      "value": "П.Ctrl"
+    },
+    {
+      "key": "LeftAlt",
+      "value": "Л.Alt"
+    },
+    {
+      "key": "RightAlt",
+      "value": "П.Alt"
+    },
+    {
+      "key": "Mouse0",
+      "value": "ЛКМ"
+    },
+    {
+      "key": "Mouse1",
+      "value": "ПКМ"
+    },
+    {
+      "key": "Mouse2",
+      "value": "СКМ"
+    }
+  ],
+  "fragments": [
+    {
+      "key": "Lap: ",
+      "value": "Круг: "
+    },
+    {
+      "key": " - Total: ",
+      "value": " — Всего: "
+    },
+    {
+      "key": " potions",
+      "value": " зелий"
+    },
+    {
+      "key": " HP",
+      "value": " ОЗ"
+    },
+    {
+      "key": " MP",
+      "value": " ОМ"
+    }
+  ]
+}
